@@ -68,6 +68,8 @@ Use markdown code blocks for errors too or comments
 - This is a <sub>subscript</sub> text
 - This is a <sup>superscript </sup> text
 
+![Screenshot of the cloud providers names](assets/cloud_providers.jpg)
+
 Let's use checkboxes 
 - [ ] Checkbox 1
 - [ ] Checkbox 2
